@@ -1,4 +1,3 @@
-
 let phrases = [
   { text: 'отправить другу смешную гифку', image: 'https://code.s3.yandex.net/web-code/procrastinate/1.gif' },
   { text: 'посмотреть скидки на авиабилеты', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
@@ -9,8 +8,8 @@ let phrases = [
   { text: 'прочитать новости и ужаснуться в комментариях', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
   { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
   { text: 'посмотреть трейлер сериала и заодно первый сезон', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
-  { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' }
-  { text: 'поиграть в бравл старс', image: https://code.s3.yandex.net/web-code/procrastinate/10.png' }
+  { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' },
+  { text: 'поиграть в бравл старс', image: 'https://upload.wikimedia.org/wikipedia/ru/4/4e/Brawl_Stars.png' }
 ];
 
 function getRandomElement(arr) {
